@@ -267,7 +267,7 @@ h2 {
 }
 
 .list-item {
-    list-style-image: url(/images/check-mark-icon.svg);
+    list-style-image: url(../images/check-mark-icon.svg);
     color: #4F5665;
     font-size: 14px;
     font-weight: 400;
@@ -403,7 +403,7 @@ h2 {
     font-weight: 400;
     line-height: 30px;
     padding-top: 17px;
-    list-style-image: url(/images/check-icon.svg);
+    list-style-image: url(../images/check-icon.svg);
     margin-left: 55px;
 }
 
