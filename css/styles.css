@@ -245,7 +245,7 @@ h1 {
 }
 
 h2 {
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 0px;
     margin-bottom: 0;
     width: 383.406px;
@@ -278,25 +278,25 @@ h2 {
 .list-item-one {
     position: relative;
     right: 9px;
-    top: 21px;
+    top: 27px;
 }
 
 .list-item-two {
     position: relative;
     right: 9px;
-    top: 41px;
+    top: 56px;
 }
 
 .list-item-three {
     position: relative;
     right: 9px;
-    top: 61px;
+    top: 84px;
 }
 
 .list-item-four {
     position: relative;
     right: 9px;
-    top: 81px;
+    top: 112px;
 }
 
 .wrapper__second-section {
